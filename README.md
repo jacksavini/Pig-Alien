@@ -3,4 +3,4 @@ This is my first ever python program, written by me as a senior in High School. 
 
 The game is made in python 3, and uses the pygame library. All the sprites and logic were made by me. 
 
-![screenshot 1](https://github.com/jacksavini/Pig-Alien/blob/README3.png?raw=true)
+![screenshot 1](https://github.com/jacksavini/Pig-Alien/README1.png?raw=true)
